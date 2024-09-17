@@ -1,2 +1,3 @@
 print(hello)
-x = nigga
+x = 42
+print(x)
